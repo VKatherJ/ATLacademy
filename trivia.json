@@ -1,0 +1,34 @@
+{
+    "juego trivia": [
+        {
+            "enunciado": "¿Cuál de las siguientes pinturas fue creada por Vincent van Gogh?",
+            "opciones": [
+                "La última cena",
+                "La persistencia de la memoria",
+                "La noche estrellada"
+            ],
+            "respuesta correcta": " La noche estrellada",
+            "descripcion": " La noche estrellada es una famosa obra de Van Gogh que muestra un cielo estrellado y es reconocida por su estilo distintivo y uso de pinceladas enérgicas."
+        },
+        {
+            "enunciado": "¿Quién es el autor de la escultura ¿El Pensador?",
+            "opciones": [
+                "Auguste Rodin",
+                "Leonardo da Vinci",
+                "Pablo Picasso"
+            ],
+            "respuesta correcta": "Auguste Rodin",
+            "descripcion": "El Pensador es una escultura icónica creada por el escultor francés Auguste Rodin. Representa a un hombre en profunda meditación y se ha convertido en uno de los símbolos más reconocidos del arte."
+        },
+        {
+            "enunciado": "¿Cuál de los siguientes artistas es conocido por sus pinturas de latas de sopa?",
+            "opciones": [
+                " Jackson Pollock",
+                " Salvador Dalí",
+                "Andy Warhol"
+            ],
+            "respuesta correcta": "Andy Warhol",
+            "descripcion": "Andy Warhol es famoso por su enfoque en la cultura popular y el arte pop. Sus pinturas de latas de sopa Campbell's se han convertido en íconos del movimiento artístico y representan la transformación de objetos cotidianos en obras de arte."
+        }
+    ]
+}

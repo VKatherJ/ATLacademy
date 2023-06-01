@@ -1,0 +1,40 @@
+{
+    "preguntas": [
+        {
+            "tematica": "Ciencia",
+            "pregunta": "¿Cuál es la fórmula química del agua?",
+            "opciones": [
+                "a) H2SO4",
+                "b) CO2",
+                "c) H2O",
+                "d) NH3"
+            ],
+            "respuesta_correcta": "c) H2O",
+            "explicacion": "La fórmula química del agua es H2O, lo que significa que una molécula de agua está compuesta por dos átomos de hidrógeno (H) y un átomo de oxígeno (O)."
+        },
+        {
+            "tematica": "Historia",
+            "pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
+            "opciones": [
+                "a) 1939",
+                "b) 1945",
+                "c) 1918",
+                "d) 1941"
+            ],
+            "respuesta_correcta": "a) 1939",
+            "explicacion": "La Segunda Guerra Mundial comenzó en el año 1939 cuando Alemania invadió Polonia, lo que llevó a la declaración de guerra por parte de varias potencias mundiales."
+        },
+        {
+            "tematica": "Deportes",
+            "pregunta": "¿En qué deporte se utiliza una pelota de golf?",
+            "opciones": [
+                "a) Fútbol",
+                "b) Béisbol",
+                "c) Tenis",
+                "d) Golf"
+            ],
+            "respuesta_correcta": "d) Golf",
+            "explicacion": "El golf es un deporte en el que los jugadores utilizan palos para golpear una pequeña pelota, llamada pelota de golf, intentando introducirla en un hoyo en el menor número de golpes posible."
+        }
+    ]
+}
