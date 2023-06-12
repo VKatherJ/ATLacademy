@@ -1,1 +1,10 @@
+{
+  "category":"Ciencia",
+  "question":"¿Cuál es la ley fundamental de la electricidad que establece que la intensidad de la corriente eléctrica es directamente proporcional al voltaje e inversamente proporcional a la resistencia?",
+  "options":["Ley de la Gravitación Universal","Ley de Ohm","Ley de la Conservación de la Energía","Ley de la Relatividad General"]
+  "answer":1,
+  "explanation":" La ley de Ohm establece que la corriente eléctrica (I) que fluye a través de un conductor es directamente proporcional al voltaje (V) aplicado e inversamente proporcional a la resistencia (R) del conductor"
 
+
+
+}
