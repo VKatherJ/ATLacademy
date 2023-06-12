@@ -1,1 +1,27 @@
-
+// Realizamos una lista con las distintas categorias 
+[
+  {
+    "category": "Ciencia",
+    "description":"Apartado enfocado en realizarte una prueba acerca de cualquier tema cientifico."
+  }
+  {
+    "category": "Geografia",
+    "description":"Apartado enfocado en realizarte una prueba acerca de las curiosidades del mundo."
+  }
+  {
+    "category": "Entenimiento",
+    "description":"Apartado enfocado en realizarte una prueba acerca de diversos temas de interes."
+  }
+  {
+    "category": "Historia",
+    "description":"Apartado enfocado en realizarte una prueba acerca de acontecimientos del pasado."
+  }
+  {
+    "category": "Deportes",
+    "description":"Apartado enfocado en realizarte una prueba acerca de eventos importantes a lo largo del tiempo."
+  }
+  {
+    "category": "Artes",
+    "description":"Apartado enfocado en realizarte una prueba acerca de personajes pioneros en el arte."
+  }
+]
